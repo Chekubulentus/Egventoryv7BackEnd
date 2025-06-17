@@ -1,0 +1,6 @@
+@Egventoryv7BackEnd_HostAddress = http://localhost:5209
+
+GET {{Egventoryv7BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
